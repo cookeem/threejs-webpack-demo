@@ -13,6 +13,12 @@ $ npm run start
 
 # 打包应用
 $ npm run build
+
+# 完成打包后打包的应用位于dist/目录，可以直接运行查看效果
+$ ls -l dist
+total 992
+-rw-r--r--  1 cookeem  staff  500492  1 23 15:52 bundle.js
+-rw-r--r--@ 1 cookeem  staff     183  1 23 15:52 index.html
 ```
 
 ## 如何创建package.json
