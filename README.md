@@ -1,8 +1,10 @@
-# three.js + webpack4
+# three.js + webpack4 demo
+
+- 测试以es6语法，使用webpack4打包three.js应用
 
 ## 运行应用
 
-```
+```bash
 # 安装package.json的依赖包
 $ npm install
 
